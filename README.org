@@ -1,0 +1,9 @@
+* cl-version-string
+
+Descriptive version strings for Common Lisp
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/atgreen/cl-version-string.git |
+| commit  | 5519ff7                                              |
+| systems | version-string                                       |
+|---------+------------------------------------------------------|
