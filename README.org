@@ -4,6 +4,6 @@ Descriptive version strings for Common Lisp
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-version-string.git |
-| commit  | 668f2fa                                              |
+| commit  | edf40d3                                              |
 | systems | version-string                                       |
 |---------+------------------------------------------------------|
